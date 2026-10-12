@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2026-02-10_05-04-44")(type "KiCad")(uri "${KIPRJMOD}/lib/FXLS8974/2026-02-10_05-04-44.kicad_sym")(options "")(descr ""))
+  (lib (name "75869-131LF")(type "KiCad")(uri "${KIPRJMOD}/lib/Amphenol 75869-131LF/75869-131LF.kicad_sym")(options "")(descr ""))
+)

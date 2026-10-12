@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/FXLS8974/footprints.pretty")(options "")(descr ""))
+  (lib (name "Amp_footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/Amphenol 75869-131LF/Amp_footprints.pretty")(options "")(descr ""))
+)
